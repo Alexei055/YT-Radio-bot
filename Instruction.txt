@@ -1,26 +1,26 @@
-„P„‚„y„r„u„„, „}„€„z „t„€„‚„€„s„€„z „t„‚„…„s! „V„€„‰„… „„„u„q„‘ „„€„q„|„p„s„€„t„p„‚„y„„„Ž „x„p „ƒ„{„p„‰„y„r„p„~„y„u „}„€„u„s„€ „q„€„„„p „y „‚„p„ƒ„ƒ„{„p„x„p„„„Ž „{„p„{ „u„s„€ „~„p„ƒ„„„‚„€„y„„„Ž.
-„R„|„u„t„…„z „ƒ„|„u„t„…„„‹„y„} „„…„~„{„„„p„} „~„p„ƒ„„„‚„€„z„{„y „q„€„„„p „y „„€„|„Ž„x„…„z„ƒ„‘ „y„}!
+ÐŸÑ€Ð¸Ð²ÐµÑ‚, Ð¼Ð¾Ð¹ Ð´Ð¾Ñ€Ð¾Ð³Ð¾Ð¹ Ð´Ñ€ÑƒÐ³! Ð¥Ð¾Ñ‡Ñƒ Ñ‚ÐµÐ±Ñ Ð¿Ð¾Ð±Ð»Ð°Ð³Ð¾Ð´Ð°Ñ€Ð¸Ñ‚ÑŒ Ð·Ð° ÑÐºÐ°Ñ‡Ð¸Ð²Ð°Ð½Ð¸Ðµ Ð¼Ð¾ÐµÐ³Ð¾ Ð±Ð¾Ñ‚Ð° Ð¸ Ñ€Ð°ÑÑÐºÐ°Ð·Ð°Ñ‚ÑŒ ÐºÐ°Ðº ÐµÐ³Ð¾ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¸Ñ‚ÑŒ.
+Ð¡Ð»ÐµÐ´ÑƒÐ¹ ÑÐ»ÐµÐ´ÑƒÑŽÑ‰Ð¸Ð¼ Ð¿ÑƒÐ½ÐºÑ‚Ð°Ð¼ Ð½Ð°ÑÑ‚Ñ€Ð¾Ð¹ÐºÐ¸ Ð±Ð¾Ñ‚Ð° Ð¸ Ð¿Ð¾Ð»ÑŒÐ·ÑƒÐ¹ÑÑ Ð¸Ð¼!
 ----
 
-0. „T„ƒ„„„p„~„€„r„y Python 3.6.0 „y „~„u„ƒ„{„€„|„Ž„{„€ „}„€„t„…„|„u„z „t„|„‘ „‚„p„q„€„„„ „q„€„„„p [„P„Q„O„P„T„R„S„I„S„E „B„R„E „P„T„N„K„S„\ „O„S„N„O„R„I„S„E„L„]„N„O #0 „E„R„L„I „T „B„@„R „T„G„E „T„R„S„@„N„O„B„L„E„N PYTHON C DISCORD.PY!!!]
-0.1.1 „R„{„p„‰„p„z „…„ƒ„„„p„~„€„r„€„‰„~„„z „†„p„z„| „„€ „„„„€„z „ƒ„ƒ„„|„{„u: https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe
-0.1.2 „O„„„{„‚„€„z „†„p„z„| python-3.6.0-amd64.exe „y „…„ƒ„„„p„~„€„r„y Python „„‚„u„t„r„p„‚„y„„„u„|„Ž„~„€ „t„€„q„p„r„y„r „u„s„€ „r PATH (https://imgur.com/eyvhmgU)
-0.1.3 „H„p„{„€„~„‰„y „…„ƒ„„„p„~„€„r„{„… „y „ƒ„|„u„t„…„z „€„ƒ„„„p„|„Ž„~„„} „„…„~„{„„„p„}
-0.2.1 „O„„„{„‚„€„z „{„€„}„p„~„~„…„ „ƒ„„„‚„€„{„… (Ctrl+R, cmd „y„|„y „~„p„z„„„y cmd „r „„€„y„ƒ„{„u)
-0.2.2 „B„r„u„t„y pip install discord.py --user „y „€„w„y„t„p„z „€„{„€„~„‰„p„~„y„‘ „x„p„s„‚„…„x„{„y
-0.2.3 „B„r„u„t„y pip install youtube-dl --user „y „„„p„{„w„u „€„w„y„t„p„z „€„{„€„~„‰„p„~„y„‘ „…„ƒ„„„p„~„€„r„{„y 
+0. Ð£ÑÑ‚Ð°Ð½Ð¾Ð²Ð¸ Python 3.6.0 Ð¸ Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¾ Ð¼Ð¾Ð´ÑƒÐ»ÐµÐ¹ Ð´Ð»Ñ Ñ€Ð°Ð±Ð¾Ñ‚Ñ‹ Ð±Ð¾Ñ‚Ð° [ÐŸÐ ÐžÐŸÐ£Ð¡Ð¢Ð˜Ð¢Ð• Ð’Ð¡Ð• ÐŸÐ£ÐÐšÐ¢Ð« ÐžÐ¢ÐÐžÐ¡Ð˜Ð¢Ð•Ð›Ð¬ÐÐž #0 Ð•Ð¡Ð›Ð˜ Ð£ Ð’ÐÐ¡ Ð£Ð–Ð• Ð£Ð¡Ð¢ÐÐÐžÐ’Ð›Ð•Ð PYTHON C DISCORD.PY!!!]
+0.1.1 Ð¡ÐºÐ°Ñ‡Ð°Ð¹ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¾Ñ‡Ð½Ñ‹Ð¹ Ñ„Ð°Ð¹Ð» Ð¿Ð¾ ÑÑ‚Ð¾Ð¹ ÑÑÑ‹Ð»ÐºÐµ: https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64.exe
+0.1.2 ÐžÑ‚ÐºÑ€Ð¾Ð¹ Ñ„Ð°Ð¹Ð» python-3.6.0-amd64.exe Ð¸ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²Ð¸ Python Ð¿Ñ€ÐµÐ´Ð²Ð°Ñ€Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾ Ð´Ð¾Ð±Ð°Ð²Ð¸Ð² ÐµÐ³Ð¾ Ð² PATH (https://imgur.com/eyvhmgU)
+0.1.3 Ð—Ð°ÐºÐ¾Ð½Ñ‡Ð¸ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÑƒ Ð¸ ÑÐ»ÐµÐ´ÑƒÐ¹ Ð¾ÑÑ‚Ð°Ð»ÑŒÐ½Ñ‹Ð¼ Ð¿ÑƒÐ½ÐºÑ‚Ð°Ð¼
+0.2.1 ÐžÑ‚ÐºÑ€Ð¾Ð¹ ÐºÐ¾Ð¼Ð°Ð½Ð½ÑƒÑŽ ÑÑ‚Ñ€Ð¾ÐºÑƒ (Ctrl+R, cmd Ð¸Ð»Ð¸ Ð½Ð°Ð¹Ñ‚Ð¸ cmd Ð² Ð¿Ð¾Ð¸ÑÐºÐµ)
+0.2.2 Ð’Ð²ÐµÐ´Ð¸ pip install discord.py --user Ð¸ Ð¾Ð¶Ð¸Ð´Ð°Ð¹ Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ Ð·Ð°Ð³Ñ€ÑƒÐ·ÐºÐ¸
+0.2.3 Ð’Ð²ÐµÐ´Ð¸ pip install youtube-dl --user Ð¸ Ñ‚Ð°ÐºÐ¶Ðµ Ð¾Ð¶Ð¸Ð´Ð°Ð¹ Ð¾ÐºÐ¾Ð½Ñ‡Ð°Ð½Ð¸Ñ ÑƒÑÑ‚Ð°Ð½Ð¾Ð²ÐºÐ¸ 
 ----
 
-1. „R„€„x„t„p„z „ƒ„r„€„v „„‚„y„|„€„w„u„~„y„u „~„p „ƒ„p„z„„„u https://discordapp.com/developers/applications/  [„P„Q„O„P„T„R„S„I„S„E „B„R„E „P„T„N„K„S„\ „O„S„N„O„R„I„S„E„L„]„N„O #1 „E„R„L„I „T „B„@„R „T„G„E „R„O„H„D„@„N„N „@„K„K„@„T„N„S „A„O„S„@!!!]
-1.1 „R„€„x„t„p„z „p„{„{„p„…„~„„ „q„€„„„p „r„€ „r„{„|„p„t„{„u "Bot" „~„p„w„p„„„y„u„} „~„p „{„~„€„„{„… "Add bot" (https://imgur.com/g9NeJHt)
-1.2 „H„p„t„p„z „y„}„‘ „y „y„{„€„~„{„… („~„u„€„q„‘„x„p„„„u„|„Ž„~„€) „y „ƒ„{„€„„y„‚„…„z „„„€„{„u„~ „q„€„„„p „‰„„„€„q„ „y„ƒ„„€„|„Ž„x„€„r„p„„„Ž „u„s„€ „r „„…„~„{„„„u #3 (https://imgur.com/1ZN5hMl)
-1.3 „P„‚„y„s„|„p„ƒ„y „q„€„„„p „~„p „ƒ„r„€„z „ƒ„u„‚„r„u„‚ „„€ „ƒ„ƒ„„|„{„u, „{„€„„„€„‚„…„ „r„ „ƒ„s„u„~„u„‚„y„‚„…„u„„„u „~„p „ƒ„p„z„„„u „r„€ „r„{„|„p„t„{„u "OAuth2"
-1.3.1 „P„€„ƒ„„„p„r„Ž „s„p„|„€„‰„{„… Bot „y „~„p„w„}„y „~„p „{„~„€„„{„… "Copy" „‰„„„€„q„ „ƒ„{„€„„y„‚„€„r„p„„„Ž „ƒ„ƒ„„|„{„…, „x„p„„„u„} „„u„‚„u„z„t„y „„€ „~„u„z „y „t„€„q„p„r„Ž „q„€„„„p „~„p „ƒ„u„‚„r„u„‚, „{„€„„„€„‚„„z „q„…„t„u„„ „…„{„p„x„p„~ „r „ƒ„„y„ƒ„{„u (https://imgur.com/Yrf57ou)
+1. Ð¡Ð¾Ð·Ð´Ð°Ð¹ ÑÐ²Ð¾Ñ‘ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ https://discordapp.com/developers/applications/  [ÐŸÐ ÐžÐŸÐ£Ð¡Ð¢Ð˜Ð¢Ð• Ð’Ð¡Ð• ÐŸÐ£ÐÐšÐ¢Ð« ÐžÐ¢ÐÐžÐ¡Ð˜Ð¢Ð•Ð›Ð¬ÐÐž #1 Ð•Ð¡Ð›Ð˜ Ð£ Ð’ÐÐ¡ Ð£Ð–Ð• Ð¡ÐžÐ—Ð”ÐÐÐ ÐÐšÐšÐÐ£ÐÐ¢ Ð‘ÐžÐ¢Ð!!!]
+1.1 Ð¡Ð¾Ð·Ð´Ð°Ð¹ Ð°ÐºÐºÐ°ÑƒÐ½Ñ‚ Ð±Ð¾Ñ‚Ð° Ð²Ð¾ Ð²ÐºÐ»Ð°Ð´ÐºÐµ "Bot" Ð½Ð°Ð¶Ð°Ñ‚Ð¸ÐµÐ¼ Ð½Ð° ÐºÐ½Ð¾Ð¿ÐºÑƒ "Add bot" (https://imgur.com/g9NeJHt)
+1.2 Ð—Ð°Ð´Ð°Ð¹ Ð¸Ð¼Ñ Ð¸ Ð¸ÐºÐ¾Ð½ÐºÑƒ (Ð½ÐµÐ¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾) Ð¸ ÑÐºÐ¾Ð¿Ð¸Ñ€ÑƒÐ¹ Ñ‚Ð¾ÐºÐµÐ½ Ð±Ð¾Ñ‚Ð° Ñ‡Ñ‚Ð¾Ð±Ñ‹ Ð¸ÑÐ¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÑŒ ÐµÐ³Ð¾ Ð² Ð¿ÑƒÐ½ÐºÑ‚Ðµ #3 (https://imgur.com/1ZN5hMl)
+1.3 ÐŸÑ€Ð¸Ð³Ð»Ð°ÑÐ¸ Ð±Ð¾Ñ‚Ð° Ð½Ð° ÑÐ²Ð¾Ð¹ ÑÐµÑ€Ð²ÐµÑ€ Ð¿Ð¾ ÑÑÑ‹Ð»ÐºÐµ, ÐºÐ¾Ñ‚Ð¾Ñ€ÑƒÑŽ Ð²Ñ‹ ÑÐ³ÐµÐ½ÐµÑ€Ð¸Ñ€ÑƒÐµÑ‚Ðµ Ð½Ð° ÑÐ°Ð¹Ñ‚Ðµ Ð²Ð¾ Ð²ÐºÐ»Ð°Ð´ÐºÐµ "OAuth2"
+1.3.1 ÐŸÐ¾ÑÑ‚Ð°Ð²ÑŒ Ð³Ð°Ð»Ð¾Ñ‡ÐºÑƒ Bot Ð¸ Ð½Ð°Ð¶Ð¼Ð¸ Ð½Ð° ÐºÐ½Ð¾Ð¿ÐºÑƒ "Copy" Ñ‡Ñ‚Ð¾Ð±Ñ‹ ÑÐºÐ¾Ð¿Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒ ÑÑÑ‹Ð»ÐºÑƒ, Ð·Ð°Ñ‚ÐµÐ¼ Ð¿ÐµÑ€ÐµÐ¹Ð´Ð¸ Ð¿Ð¾ Ð½ÐµÐ¹ Ð¸ Ð´Ð¾Ð±Ð°Ð²ÑŒ Ð±Ð¾Ñ‚Ð° Ð½Ð° ÑÐµÑ€Ð²ÐµÑ€, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ð¹ Ð±ÑƒÐ´ÐµÑ‚ ÑƒÐºÐ°Ð·Ð°Ð½ Ð² ÑÐ¿Ð¸ÑÐºÐµ (https://imgur.com/Yrf57ou)
 ----
 
-2. „O„„„{„‚„€„z „†„p„z„| config.py
-3. „H„p„„€„|„~„y „r„ƒ„u „„€„|„‘, „{„€„„„€„‚„„u „~„u „y„}„u„„„ „„€„}„u„„„{„y "„~„u„€„q„‘„x„p„„„u„|„Ž„~„€" („~„u„€„q„‘„x„p„„„u„|„Ž„~„„u „„€„|„‘ „}„€„w„~„€ „x„p„„€„|„~„y„„„Ž „„€ „w„u„|„p„~„y„)
-4. „R„€„‡„‚„p„~„y „y„x„}„u„~„v„~„~„„z „†„p„z„|
-5. „H„p„„…„ƒ„„„y „†„p„z„| index.py
+2. ÐžÑ‚ÐºÑ€Ð¾Ð¹ Ñ„Ð°Ð¹Ð» config.py
+3. Ð—Ð°Ð¿Ð¾Ð»Ð½Ð¸ Ð²ÑÐµ Ð¿Ð¾Ð»Ñ, ÐºÐ¾Ñ‚Ð¾Ñ€Ñ‹Ðµ Ð½Ðµ Ð¸Ð¼ÐµÑŽÑ‚ Ð¿Ð¾Ð¼ÐµÑ‚ÐºÐ¸ "Ð½ÐµÐ¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ð¾" (Ð½ÐµÐ¾Ð±ÑÐ·Ð°Ñ‚ÐµÐ»ÑŒÐ½Ñ‹Ðµ Ð¿Ð¾Ð»Ñ Ð¼Ð¾Ð¶Ð½Ð¾ Ð·Ð°Ð¿Ð¾Ð»Ð½Ð¸Ñ‚ÑŒ Ð¿Ð¾ Ð¶ÐµÐ»Ð°Ð½Ð¸ÑŽ)
+4. Ð¡Ð¾Ñ…Ñ€Ð°Ð½Ð¸ Ð¸Ð·Ð¼ÐµÐ½Ñ‘Ð½Ð½Ñ‹Ð¹ Ñ„Ð°Ð¹Ð»
+5. Ð—Ð°Ð¿ÑƒÑÑ‚Ð¸ Ñ„Ð°Ð¹Ð» index.py
 
-[„D„E„Q„G„I„S„E „B„R„E „U„@„J„L„\ „A„O„S„@ „B „O„D„N„O„M „M„E„R„S„E, „I„N„@„X„E „A„O„S „N„E „A„T„D„E„S „Q„@„A„O„S„@„S„]!!!]
+[Ð”Ð•Ð Ð–Ð˜Ð¢Ð• Ð’Ð¡Ð• Ð¤ÐÐ™Ð›Ð« Ð‘ÐžÐ¢Ð Ð’ ÐžÐ”ÐÐžÐœ ÐœÐ•Ð¡Ð¢Ð•, Ð˜ÐÐÐ§Ð• Ð‘ÐžÐ¢ ÐÐ• Ð‘Ð£Ð”Ð•Ð¢ Ð ÐÐ‘ÐžÐ¢ÐÐ¢Ð¬!!!]

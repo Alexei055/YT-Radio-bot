@@ -3,7 +3,7 @@ from sys import path
 
 client = discord.Client()
 
-stream_url = config.straem_url if (config.straem_url) else 'https://youtu.be/PRlAY486hVg'
+stream_url = config.url if (config.url) else 'https://youtu.be/PRlAY486hVg'
 
 class Song:
 	def __init__(self, data):
